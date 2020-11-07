@@ -51,7 +51,7 @@
           <div class="row">
             <div class="col-12 form-group">
               <button class="btn btn-success">Create</button>
-              <router-link to="/" class="btn btn-primary">Back</router-link>
+              <router-link to="/" class="btn btn-primary">Cancel</router-link>
             </div>
           </div>
         </form>
